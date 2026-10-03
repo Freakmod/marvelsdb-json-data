@@ -318,7 +318,7 @@
     },
     {
         "code": "60050",
-        "name": "In Harm's Way",
+        "name": "Vidas en peligro",
         "text": "[star] El coste para jugar esta carta aumenta en 1 por cada Aliado que controles.\n<b>Acción de Héroe</b> <i>(ataque/intervención)</i>: inflige X de Daño a un enemigo y quita X de Amenaza de un Plan, siendo X igual a tu DEF.",
         "traits": "Ataque. Intervención."
     },
@@ -340,7 +340,7 @@
         "code": "60053",
         "flavor": "\"I am Ronin, the samurai with no master.\" \u2014Ronin",
         "name": "Ronin",
-        "text": "Mientras no controles a ningún Aliado, tu Héroe recibe +1 DEF y gana retaliate 1.",
+        "text": "Mientras no controles a ningún Aliado, tu Héroe recibe +1 DEF y gana Represalia 1.",
         "traits": "Título."
     },
     {
