@@ -346,7 +346,7 @@
     {
         "code": "60054",
         "name": "Solo ante el peligro",
-        "text": "Máximo de 1 por jugador.\n<b>Interrupción de Héroe</b>: cuandoun enemigo te ataque <i>(antes de que se declare ningún defensor)</i>, si no controlas ningún Aliado, agota Solo ante el peligro \u2192 prepara tu Héroe.",
+        "text": "Máximo de 1 por jugador.\n<b>Interrupción de Héroe</b>: cuando un enemigo te ataque <i>(antes de que se declare ningún defensor)</i>, si no controlas ningún Aliado, agota Solo ante el peligro \u2192 prepara tu Héroe.",
         "traits": "Alteración."
     },
     {
