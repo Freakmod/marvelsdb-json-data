@@ -126,7 +126,7 @@
     },
     {
         "code": "60019",
-        "flavor": "\"I'm invisible, but I'm still here. Chinatown is where I live y I'm going to protect it.\"",
+        "flavor": "\"Soy invisible, pero sigo aquí. Chinatown es donde vivo. Voy a luchar por protegerlo.\"",
         "name": "Punto Ciego",
         "subname": "Sam Chung",
         "text": "[star] <b>Respuesta</b>: después de que Punto Ciego intervenga, confunde a un enemigo que tenga vinculada una Mejora.",
@@ -141,7 +141,7 @@
     },
     {
         "code": "60021",
-        "flavor": "\"I'll be the light in your dark, Ty.\"",
+        "flavor": "\"Yo seré la luz en tu oscuridad, Ty.\"",
         "name": "Puñal",
         "subname": "Tandy Bowen",
         "text": "Capa pierde todos sus iconos [acceleration].\n[star] Si Capa está en juego, Puñal sufre -1 de Daño derivado después de usar un atributo básico.",
@@ -149,7 +149,7 @@
     },
     {
         "code": "60022",
-        "flavor": "\"My penance stare reveals all of your past sins!\"",
+        "flavor": "\"¡Mi mirada de la penitencia te revelará todos los pecados de tu pasado!\"",
         "name": "Motorista Fantasma",
         "subname": "Johnny Blaze",
         "text": "[star] <b>Interrupción</b>: cuando el Motorista Fantasma ataque a un enemigo, gasta un recurso [energy] ([energy] [energy] si ese enemigo es el Villano) \u2192 confunde a ese enemigo.",
@@ -157,14 +157,14 @@
     },
     {
         "code": "60023",
-        "flavor": "\"I don't need to see you to know your next move.\" \u2014Puño de Hierro",
+        "flavor": "\"No necesito verte para saber cuál será tu próximo movimiento.\" \u2014Puño de Hierro",
         "name": "Conoce a tu enemigo",
         "text": "[star] Descuento 1 ([[Artista marcial]]).\n<b>Acción de Héroe</b> <i>(intervención)</i>: quita 1 de Amenaza de un Plan. Quita 1 de Amenaza de un Plan.",
         "traits": "Intervención."
     },
     {
         "code": "60024",
-        "flavor": "\"I can see my house de esta carta!\" \u2014Civilian",
+        "flavor": "\"¡Desde aquí se ve mi casa!\" \u2014Civil",
         "name": "Reducir tensiones",
         "text": "Victoria 0.\n<b>Cuando se derrote esta carta</b>: retira del juego 1 ficha de Aceleración."
     },
@@ -177,7 +177,7 @@
     },
     {
         "code": "60026",
-        "flavor": "\"You got a permit for that?\" \u2014Police officer",
+        "flavor": "\"¿Tiene licencia para eso?\" \u2014Agente de policía",
         "name": "Problemas con la ley",
         "text": "[star] Descuento 1 ([[Abogado]] o [[Policía]]).\nVincula esta carta a un Esbirro. Máximo de 1 por Esbirro.\nEl Esbirro vinculado recibe recibe -2 PLA.",
         "traits": "Alteración."
@@ -305,13 +305,13 @@
     },
     {
         "code": "60048",
-        "flavor": "\"Two versus one is not a fair fight...for you.\" \u2014Daredevil",
+        "flavor": "\"Dos contra uno no es una pelea justa...para vosotros.\" \u2014Daredevil",
         "name": "Ejercito de una sola persona",
         "text": "[star] El coste para jugar esta carta aumenta en 1 por cada Aliado que controles.\n<b>Acción de Héroe</b>: prepara a tu Héroe."
     },
     {
         "code": "60049",
-        "flavor": "\"I think we made 'em mad.\"\n\"What do you mean 'we'?\"\n\u2014Rocket Raccoon y Gamora",
+        "flavor": "\"Me parece que los hemos cabreado.\"\n\"¿Cómo que 'hemos'?\"\n\u2014Mapache Cohete y Gamora",
         "name": "Captar su atención",
         "text": "<b>Interrupción de Héroe</b> <i>(defensa/intervención)</i>: cuando un enemigo inicie un ataque, quita 3 de Amenaza de un Plan.",
         "traits": "Defensa. Intervención."
@@ -325,7 +325,7 @@
     {
         "code": "60051",
         "duplicate_of": "32014",
-        "flavor": "\"That was my favorite shirt!\" \u2014Luke Cage",
+        "flavor": "\"¡Ésta es mi camiseta favorita!\" \u2014Luke Cage",
         "pack_code": "fne",
         "position": 51,
         "quantity": 3
@@ -338,7 +338,7 @@
     },
     {
         "code": "60053",
-        "flavor": "\"I am Ronin, the samurai with no master.\" \u2014Ronin",
+        "flavor": "\"Soy Ronin, un samurái sin amo.\" \u2014Ronin",
         "name": "Ronin",
         "text": "Mientras no controles a ningún Aliado, tu Héroe recibe +1 DEF y gana Represalia 1.",
         "traits": "Título."
@@ -358,7 +358,7 @@
     {
         "code": "60056",
         "duplicate_of": "40059",
-        "flavor": "\"Eat light daggers, you purple punk!\" \u2014Dagger",
+        "flavor": "\"¡Cómete estos puñakes de luz, friki púrpura!\" \u2014Puñal",
         "pack_code": "fne",
         "position": 56,
         "quantity": 1
